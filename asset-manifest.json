@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%7Bprima-app-react%7D/static/css/main.dc6f04dd.css",
+    "main.js": "/%7Bprima-app-react%7D/static/js/main.945a8e72.js",
+    "static/media/Team.png": "/%7Bprima-app-react%7D/static/media/Team.cade9c80984f3797a5c1.png",
+    "static/media/Globe.png": "/%7Bprima-app-react%7D/static/media/Globe.39e0d9dbf2dd34207de5.png",
+    "static/media/Slider01.png": "/%7Bprima-app-react%7D/static/media/Slider01.afa95c998694ebf60617.png",
+    "static/media/Phone.png": "/%7Bprima-app-react%7D/static/media/Phone.c60674d682de53c96614.png",
+    "static/media/Mobile app development 1.png": "/%7Bprima-app-react%7D/static/media/Mobile app development 1.05c0c506138031b88bba.png",
+    "static/media/Web-Designing 1.png": "/%7Bprima-app-react%7D/static/media/Web-Designing 1.7d7ff075a6066012287b.png",
+    "static/media/Web-development 1.png": "/%7Bprima-app-react%7D/static/media/Web-development 1.760f840a059cd510017e.png",
+    "static/media/Waves.svg": "/%7Bprima-app-react%7D/static/media/Waves.cdcf955e23d4a7dcffaa7c1183826e0f.svg",
+    "index.html": "/%7Bprima-app-react%7D/index.html",
+    "static/media/bulletArrow.svg": "/%7Bprima-app-react%7D/static/media/bulletArrow.c635ae1acf7a59c47bb9.svg",
+    "main.dc6f04dd.css.map": "/%7Bprima-app-react%7D/static/css/main.dc6f04dd.css.map",
+    "main.945a8e72.js.map": "/%7Bprima-app-react%7D/static/js/main.945a8e72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc6f04dd.css",
+    "static/js/main.945a8e72.js"
+  ]
+}
